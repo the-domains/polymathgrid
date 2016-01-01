@@ -2,6 +2,7 @@ name: PolymathGrid
 favicon: null
 layout_spectrum: 0.74875
 typography_spectrum: 0.24958
+title: Polymath Grid
 cta:
   domain: null
   bucket: null
