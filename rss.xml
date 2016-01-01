@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[PolymathGrid]]></title>
         <description><![CDATA[PolymathGrid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/polymathgrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 16:26:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 16:36:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/polymathgrid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to Polymath Grid]]></title>
             <description><![CDATA[<article><h1>Welcome to Polymath Grid</h1><p>This is the Grid playground for Polymath Innovations, a strategic storytelling agency advancing the good with visionary organizations and brands. Our purpose is to help our clients do good better. More efficiently, more effectively, more beautifully. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60873cf6dea8582da2a0aacb516ae29be1338fd0.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-polymath-grid/index.html</link>
+            <link>https://thegrid.ai/polymathgrid/welcome-to-polymath-grid/index.html</link>
             <guid isPermaLink="false">9e5cbca9-9c52-47ba-9798-5a3e030a7f50</guid>
             <pubDate>Fri, 01 Jan 2016 16:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>Polymath began in...with a mission to...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51ae38fc-7a08-4eaa-9ba6-2e59a0d5fe8b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/polymathgrid/about-us/index.html</link>
+            <guid isPermaLink="false">e1bf7f7d-caef-4ade-81fb-616c0ebc34e8</guid>
+            <pubDate>Fri, 01 Jan 2016 16:36:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
